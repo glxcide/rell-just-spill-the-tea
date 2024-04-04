@@ -1,13 +1,25 @@
 {
   "name": "rell-spilling-tea",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.4",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
   },
+  "author": "",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glxcide/tea-spilled-rell",
+  },
+  "bugs": {
+    "url": "https://github.com/glxcide/tea-spilled-rell/issues"
+  },
+  "homepage": "https://github.com/glxcide/tea-spilled-rell/blob/main/tea-spilled-rell/README.md",
+
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
